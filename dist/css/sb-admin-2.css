@@ -363,3 +363,7 @@ table.dataTable thead .sorting:after {
 .panel-heading.noBorderRadius {
     border-radius: 0px;
 }
+
+.titleFont {
+    font-size: 20px;
+}
