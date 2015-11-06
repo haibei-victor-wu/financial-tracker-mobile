@@ -367,3 +367,12 @@ table.dataTable thead .sorting:after {
 .titleFont {
     font-size: 20px;
 }
+
+.progress-bar span {
+    top: 5px;
+    position: relative;
+}
+
+.progress.h30 {
+    height: 30px;
+}
